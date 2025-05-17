@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitks0980&label=Profile%20views&color=0e75b6&style=flat" alt="ankitks0980" /> </p>
 
-- 🌱 I’m currently learning **Advance Java Features**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Creative Web Projects**
 
